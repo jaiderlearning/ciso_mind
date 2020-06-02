@@ -1,5 +1,5 @@
 # ciso_mind
-## <center>  **Tarea** </center>
+->##   **Tarea**<-
 
 
 ![CISO_MIND](https://user-images.githubusercontent.com/8702856/83554679-c7c6bf80-a4d2-11ea-8cc7-86017e3bb97f.png)
@@ -14,5 +14,3 @@
 5. Realice un   (git push -u origin master) a este repositorio. Asegúrese de realizar el comentario pertinente detallando el autor y motivo de commit. 
 
 
-Center-aligned
-{: .alert .alert-info .text-center}
