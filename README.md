@@ -12,3 +12,7 @@
 3. Realizar lista numerada en esta carpeta de todos los elementos de su grupo (traducido). Para ello haga usos de un archivo markdown.
 4. Describir los 5 primeros elementos del grupo de trabajo.  
 5. Realice un   (git push -u origin master) a este repositorio. Asegúrese de realizar el comentario pertinente detallando el autor y motivo de commit. 
+
+
+Center-aligned
+{: .alert .alert-info .text-center}
