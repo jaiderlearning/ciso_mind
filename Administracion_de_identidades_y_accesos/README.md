@@ -1,5 +1,5 @@
-# Definiciones de la Administracion de identidades y accesos
-## Se especiffica cada una de los dominios que aplica
+# Definiciones de la Administración de identidades y accesos
+## Se específica cada uno de los dominios que aplica
  
 1. **Provisioning/Deprovisioning**
 	- El ***Aprovisionamiento y desaprovisionamiento*** de usuarios implica el proceso de creación, actualización y eliminación de cuentas de usuario en múltiples aplicaciones y sistemas. Esta práctica de administración de acceso a veces puede incluir información asociada, como derechos de usuario, membresías de grupo e incluso los propios grupos.
