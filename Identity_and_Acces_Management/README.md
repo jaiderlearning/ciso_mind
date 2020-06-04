@@ -1,6 +1,11 @@
-1. Provisioning/Deprovisioning
-	- La administración de privilegios y la asociación de ellos con la provisión de servicios, recursos y accesos son tan críticos como la eliminación de estos derechos cuando los papeles cambian o cuando los empleados dejan la organización. Además, el mantenimiento de los accesos de usuario y de los privilegios de revelación de información en casos de extrema necesidad son esenciales para proteger la información confidencial. Los proyectos de administración de identidades y proyectos (IAM) a menudo son demasiado complejos, usan un enfoque uniforme para todos y son orientados únicamente hacia la TI.
-2. Sigle Sing On (SSO)
-	- Descripcion 2
-3. Federed Single
-	- Descripcion 3
+# Definiciones de la Administracion de identidades y accesos
+## Se especiffica cada una de los dominios que aplica 
+1.** Provisioning/Deprovisioning **
+	- El ***Aprovisionamiento y desaprovisionamiento*** de usuarios implica el proceso de creación, actualización y eliminación de cuentas de usuario en múltiples aplicaciones y sistemas. Esta práctica de administración de acceso a veces puede incluir información asociada, como derechos de usuario, membresías de grupo e incluso los propios grupos.
+2. ** Sigle Sing On (SSO) **
+	- Es un servicio de *autenticación tanto de usuarios* como de dispositivos de carácter centralizado, Permite a los usuarios tener acceso a múltiples aplicaciones ingresando solo con una cuenta a los diferentes sistemas y recursos
+3. ** Federeted Single Sing On (FSSO) **
+	- Para comprender el ***SSO Federado***, debe comprender la federación. La federación es una relación que se mantiene entre organizaciones. Los usuarios de cada organización obtienen acceso a través de las propiedades web de los demás. Por lo tanto, el SSO federado proporciona un token de autenticación para el usuario que es confiable en todas las organizaciones. Por lo tanto, el usuario no necesita crear una cuenta diferente para cada organización en la federación para acceder a las propiedades y aplicaciones web
+4. ** Multi-Factor Authentication **
+5. ** Role-Based Acces Control (RBAC)**
+6. ** Identity Store (LDAP, Active Directory) **
