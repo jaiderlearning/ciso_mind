@@ -1,4 +1,4 @@
-1.**Prevention** 
+1. **Prevention** 
    todo lo encaminado a prevenir cualquier amenaza acciones que van encaminadas a prevenir cualquier amenaza a la confidencialidad, integridad, no repudio y disponibilidad de los elementos críticos del sistema
 	-data protection
 		-encription, PKI, TLS
@@ -21,30 +21,28 @@
 		-secure configuration 
 		-active defense
 		-patching
-2.**Detection**
+2. **Detection**
 Método de protección contra los errores de transmisión o registro o algun tipo de amenazas
-	-log management/siem
-	-continuous monitoring
-	-network security monitoring
-	-netflow analysis
-	-advance analysis
-	-threat hunting
+	- log management/siem
+	- continuous monitoring
+	- network security monitoring
+	- netflow analysis
+	- advance analysis
+	- threat hunting
 	- penetration testing
-	-red team
-	-vulnerability scanning
-	-human sensor
-	-data loss prevention (DLP)
-	-security operation center (SOC)
-	-threat intelligence
-	-threat information sharing
-	-industry partnerships
-3.**Response** 
+	- red team
+	- vulnerability scanning
+	- human sensor
+	- data loss prevention (DLP)
+	- security operation center (SOC)
+	- threat intelligence
+	- threat information sharing
+	- industry partnerships
+3. **Response** 
 responsable de dar pronta respuesta a amenazas en el ciberneticas que se puedan detectar 
-	-incidente handing plan 
-	-breach preparation 
-	-tabletop exercises
-	-forensic analysis
-	-crisis management
-	-breach communication 
-		
-		
+	- incidente handing plan 
+	- breach preparation 
+	- tabletop exercises
+	- forensic analysis
+	- crisis management
+	- breach communication 		
